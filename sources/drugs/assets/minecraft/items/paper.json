@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 441,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/lsd"
+        }
+      },
+      {
+        "threshold": 448,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/long_papes"
+        }
+      },
+      {
+        "threshold": 449,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/papes"
+        }
+      },
+      {
+        "threshold": 458,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/ecstasy"
+        }
+      },
+      {
+        "threshold": 467,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/drug_test"
+        }
+      },
+      {
+        "threshold": 468,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/drug_test"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

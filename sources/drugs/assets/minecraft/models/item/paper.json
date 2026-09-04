@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+    },
+    "overrides":[
+     {"predicate": {"custom_model_data":441}, "model":"item/drugs/lsd"},
+     {"predicate": {"custom_model_data":448}, "model":"item/drugs/long_papes"},
+     {"predicate": {"custom_model_data":449}, "model":"item/drugs/papes"},
+     {"predicate": {"custom_model_data":458}, "model":"item/drugs/ecstasy"},
+     {"predicate": {"custom_model_data":467}, "model":"item/drugs/drug_test"},
+     {"predicate": {"custom_model_data":468}, "model":"item/drugs/drug_test"}
+     ]
+}

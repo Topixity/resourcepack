@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/sugar"
+  },
+    "overrides": [
+        { "predicate": {"custom_model_data": 440}, "model": "item/drugs/hydrogen"},
+        { "predicate": {"custom_model_data": 443}, "model": "item/drugs/sodium"},
+        { "predicate": {"custom_model_data": 459}, "model": "item/drugs/isosafrole"},
+        { "predicate": {"custom_model_data": 460}, "model": "item/drugs/piperonal"},
+        { "predicate": {"custom_model_data": 461}, "model": "item/drugs/safrole"},
+        { "predicate": {"custom_model_data": 463}, "model": "item/drugs/speed"},
+        { "predicate": {"custom_model_data": 465}, "model": "item/drugs/cocaine"}
+    ]
+}

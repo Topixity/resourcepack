@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glass_bottle"
+  },
+    "overrides": [
+        { "predicate": {"custom_model_data": 442}, "model": "item/drugs/lysergic_acid"},
+        { "predicate": {"custom_model_data": 444}, "model": "item/drugs/propanolamine_acid"},
+        { "predicate": {"custom_model_data": 462}, "model": "item/drugs/phenyl"}
+    ]
+}

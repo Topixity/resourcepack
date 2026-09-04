@@ -1,0 +1,62 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 440,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/hydrogen"
+        }
+      },
+      {
+        "threshold": 443,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/sodium"
+        }
+      },
+      {
+        "threshold": 459,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/isosafrole"
+        }
+      },
+      {
+        "threshold": 460,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/piperonal"
+        }
+      },
+      {
+        "threshold": 461,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/safrole"
+        }
+      },
+      {
+        "threshold": 463,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/speed"
+        }
+      },
+      {
+        "threshold": 465,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/cocaine"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/sugar"
+    }
+  }
+}

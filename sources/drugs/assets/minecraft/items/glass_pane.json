@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 465,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/heroin_syringe"
+        }
+      },
+      {
+        "threshold": 466,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/syringe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/glass_pane"
+    }
+  }
+}

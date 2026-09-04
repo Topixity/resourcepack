@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 442,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/lysergic_acid"
+        }
+      },
+      {
+        "threshold": 444,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/propanolamine_acid"
+        }
+      },
+      {
+        "threshold": 462,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drugs/phenyl"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/glass_bottle"
+    }
+  }
+}

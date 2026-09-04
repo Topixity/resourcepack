@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+    "overrides": [
+        { "predicate": {"custom_model_data": 445}, "model": "item/drugs/cigarette"},
+        { "predicate": {"custom_model_data": 447}, "model": "item/drugs/joint"}
+    ]
+}
