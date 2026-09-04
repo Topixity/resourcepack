@@ -1,0 +1,21 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "bitmap",
+      "file": "topixity:font/smallcaps_full.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        "abcdefghijklmnopqrstuvwxyz",
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "áéíóöőúüűÁÉÍÓÖŐÚÜŰ01234567",
+        "89.,:;!?()[]{}<>/|-_+=*&%$",
+        "#@\"'\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    }
+  ]
+}
