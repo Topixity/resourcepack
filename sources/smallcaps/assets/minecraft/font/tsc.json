@@ -6,7 +6,7 @@
     },
     {
       "type": "bitmap",
-      "file": "topixity:font/smallcaps_full.png",
+      "file": "topixity:font/tsc.png",
       "ascent": 8,
       "height": 10,
       "chars": [
