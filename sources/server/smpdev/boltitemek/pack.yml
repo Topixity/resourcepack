@@ -7,3 +7,32 @@ itemek:
     cmd: 500
     textura: shared/textures/diakard.png
     bedrock_identifier: topixity:diakard
+
+  # ── Topixity netherit szett (CMD 501–504)
+  - nev: Netherit sisak
+    azonosito: netherit_sisak
+    alap: minecraft:netherite_helmet
+    cmd: 501
+    textura: shared/textures/netherit_sisak.png
+    bedrock_identifier: topixity:netherit_sisak
+
+  - nev: Netherit mellvért
+    azonosito: netherit_mellvert
+    alap: minecraft:netherite_chestplate
+    cmd: 502
+    textura: shared/textures/netherit_mellvert.png
+    bedrock_identifier: topixity:netherit_mellvert
+
+  - nev: Netherit nadrág
+    azonosito: netherit_nadrag
+    alap: minecraft:netherite_leggings
+    cmd: 503
+    textura: shared/textures/netherit_nadrag.png
+    bedrock_identifier: topixity:netherit_nadrag
+
+  - nev: Netherit bakancs
+    azonosito: netherit_bakancs
+    alap: minecraft:netherite_boots
+    cmd: 504
+    textura: shared/textures/netherit_bakancs.png
+    bedrock_identifier: topixity:netherit_bakancs

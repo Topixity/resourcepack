@@ -3,6 +3,10 @@
     "atnevezes": {
       "smpdev": {
         "diakard": "smpdev_diakard",
+        "netherit_bakancs": "smpdev_netherit_bakancs",
+        "netherit_mellvert": "smpdev_netherit_mellvert",
+        "netherit_nadrag": "smpdev_netherit_nadrag",
+        "netherit_sisak": "smpdev_netherit_sisak",
         "topixity.ping": "smpdev_topixity.ping"
       }
     },
@@ -10,15 +14,15 @@
       "smpdev/boltitemek",
       "smpdev/teszt"
     ],
-    "meret": 14184,
+    "meret": 15655,
     "modul_uuid": "49c96cd8-9ba1-5ab0-8589-dd8a7b3546b6",
-    "sha256": "adab5419465d94c6e5f10eb78d875e9203574d35a513824a9671aaf7d1949579",
+    "sha256": "1549121285afec91b2ff301ce283f5eabe4b952c381e0ec724e5476a95a43fe5",
     "url": "https://raw.githubusercontent.com/Topixity/resourcepack/main/packs/topixity_bedrock.zip",
     "uuid": "5cdb37a1-2d0a-5128-a91c-eeb1532265d1",
     "verzio": [
       1,
       0,
-      6
+      7
     ]
   },
   "leiras": "Topixity pack manifest — a kezbesitok ebbol dolgoznak",
@@ -51,10 +55,42 @@
             "bedrock_identifier": "topixity:diakard",
             "cmd": 500,
             "nev": "Diákard"
+          },
+          {
+            "alap": "minecraft:netherite_boots",
+            "azonosito": "netherit_bakancs",
+            "bedrock_icon": "smpdev_netherit_bakancs",
+            "bedrock_identifier": "topixity:netherit_bakancs",
+            "cmd": 504,
+            "nev": "Netherit bakancs"
+          },
+          {
+            "alap": "minecraft:netherite_chestplate",
+            "azonosito": "netherit_mellvert",
+            "bedrock_icon": "smpdev_netherit_mellvert",
+            "bedrock_identifier": "topixity:netherit_mellvert",
+            "cmd": 502,
+            "nev": "Netherit mellvért"
+          },
+          {
+            "alap": "minecraft:netherite_helmet",
+            "azonosito": "netherit_sisak",
+            "bedrock_icon": "smpdev_netherit_sisak",
+            "bedrock_identifier": "topixity:netherit_sisak",
+            "cmd": 501,
+            "nev": "Netherit sisak"
+          },
+          {
+            "alap": "minecraft:netherite_leggings",
+            "azonosito": "netherit_nadrag",
+            "bedrock_icon": "smpdev_netherit_nadrag",
+            "bedrock_identifier": "topixity:netherit_nadrag",
+            "cmd": 503,
+            "nev": "Netherit nadrág"
           }
         ],
-        "meret": 14358,
-        "sha1": "aab343e352e9f645e680966302cbaac56dc56fa4",
+        "meret": 18282,
+        "sha1": "7f4e796deff5ca94152626e5be9a234c9cfb131e",
         "szerverek": [
           "smpdev"
         ],
