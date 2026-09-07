@@ -1,0 +1,9 @@
+# Bedrock-metaadat + reteg->szerver hozzarendeles.
+bedrock:
+  nev: Topixity
+  leiras: Topixity Bedrock resource pack
+  fajlnev: topixity_bedrock
+
+# Egy reteg tobb szerveren is elhet. Ha nincs "szerverek", a reteg neve = a szerver neve.
+smp_pack:
+  szerverek: [smp, smpdev]

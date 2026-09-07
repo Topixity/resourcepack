@@ -1,0 +1,15 @@
+nev: Teszt
+leiras: Ketplatformos proba — 1 textura + 1 hang egy kozos forrasbol
+platformok: [java, bedrock]
+
+texturak:
+  - forras: shared/textures/topixity_teszt.png
+    java: minecraft:item/diamond          # a gyemant ikonjat csereli
+    bedrock: items/diamond
+    bedrock_prefix: false
+    bedrock_kulcs: diamond
+
+hangok:
+  - forras: shared/sounds/ping.ogg
+    nev: topixity.ping
+    kategoria: player

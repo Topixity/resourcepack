@@ -1,0 +1,9 @@
+nev: Bolt itemek
+platformok: [java, bedrock]
+
+itemek:
+  - nev: Diákard
+    alap: minecraft:diamond_sword
+    cmd: 500
+    textura: shared/textures/diakard.png
+    bedrock_identifier: topixity:diakard

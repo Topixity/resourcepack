@@ -1,0 +1,65 @@
+{
+  "bedrock": {
+    "atnevezes": {
+      "smpdev": {
+        "diakard": "smpdev_diakard",
+        "topixity.ping": "smpdev_topixity.ping"
+      }
+    },
+    "forrasok": [
+      "smpdev/boltitemek",
+      "smpdev/teszt"
+    ],
+    "meret": 12898,
+    "modul_uuid": "49c96cd8-9ba1-5ab0-8589-dd8a7b3546b6",
+    "sha256": "ab59cc0457becc610a3c9c8e01df30f75c756789c652afd2e35f847ead81cafd",
+    "url": "https://raw.githubusercontent.com/Topixity/resourcepack/main/packs/topixity_bedrock.mcpack",
+    "uuid": "5cdb37a1-2d0a-5128-a91c-eeb1532265d1",
+    "verzio": [
+      1,
+      0,
+      4
+    ]
+  },
+  "leiras": "Topixity pack manifest — a kezbesitok ebbol dolgoznak",
+  "retegek": {
+    "network": {
+      "java": {
+        "meret": 9463,
+        "sha1": "a3b6305cb2391d5d7402b54f5f159df9ffe29c60",
+        "url": "https://raw.githubusercontent.com/Topixity/resourcepack/main/packs/topixity_pack.zip"
+      }
+    },
+    "smp_pack": {
+      "java": {
+        "meret": 41656,
+        "sha1": "2a0b36408e858101a72b7791c0128cf29b934545",
+        "szerverek": [
+          "smp",
+          "smpdev"
+        ],
+        "url": "https://raw.githubusercontent.com/Topixity/resourcepack/main/packs/smp_pack.zip"
+      }
+    },
+    "smpdev": {
+      "java": {
+        "itemek": [
+          {
+            "alap": "minecraft:diamond_sword",
+            "azonosito": "diakard",
+            "bedrock_icon": "smpdev_diakard",
+            "bedrock_identifier": "topixity:diakard",
+            "cmd": 500,
+            "nev": "Diákard"
+          }
+        ],
+        "meret": 13046,
+        "sha1": "d15fb4884bbddd1e4d81da8484a88922946ce8eb",
+        "szerverek": [
+          "smpdev"
+        ],
+        "url": "https://raw.githubusercontent.com/Topixity/resourcepack/main/packs/smpdev.zip"
+      }
+    }
+  }
+}
