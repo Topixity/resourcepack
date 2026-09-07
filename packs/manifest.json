@@ -10,15 +10,15 @@
       "smpdev/boltitemek",
       "smpdev/teszt"
     ],
-    "meret": 13037,
+    "meret": 14184,
     "modul_uuid": "49c96cd8-9ba1-5ab0-8589-dd8a7b3546b6",
-    "sha256": "9662ad949b413afe2e3408388035a206549fba2b0f2bcd05385ff3c5a1ec721f",
+    "sha256": "adab5419465d94c6e5f10eb78d875e9203574d35a513824a9671aaf7d1949579",
     "url": "https://raw.githubusercontent.com/Topixity/resourcepack/main/packs/topixity_bedrock.zip",
     "uuid": "5cdb37a1-2d0a-5128-a91c-eeb1532265d1",
     "verzio": [
       1,
       0,
-      5
+      6
     ]
   },
   "leiras": "Topixity pack manifest — a kezbesitok ebbol dolgoznak",
@@ -53,8 +53,8 @@
             "nev": "Diákard"
           }
         ],
-        "meret": 13211,
-        "sha1": "59328a3e6db6e638951881113513fb111c094671",
+        "meret": 14358,
+        "sha1": "a72b52c12d0cb7365e5cbf79117aa3865c4911f8",
         "szerverek": [
           "smpdev"
         ],
